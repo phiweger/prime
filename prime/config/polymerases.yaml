@@ -1,0 +1,10 @@
+longamp: 
+  tm_method: santalucia 
+  salt_corrections_method: owczarzy
+  extension_t: 65  # https://www.neb.com/faqs/2012/09/05/can-the-extension-step-be-carried-out-at-72-deg-c-when-using-longamp1
+  extension_rate: 50  # https://www.neb.com/faqs/2012/09/05/what-is-the-extension-rate-when-using-longamp-taq-dna-polymerase 
+q5:
+  tm_method: santalucia
+  salt_corrections_method: owczarzy
+  extension_t: 65 
+  extension_rate: 50

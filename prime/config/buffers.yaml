@@ -1,0 +1,4 @@
+longamp:
+  default:
+    mv_conc: 80
+    dv_conc: 2
