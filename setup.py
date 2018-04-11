@@ -7,7 +7,7 @@ setup(
         'click',
         'biopython',
         'numpy',
-        'primer3',
+        'primer3-py',
     ],
     setup_requires=['pytest-runner'],
     tests_require=['pytest'],
